@@ -1,0 +1,35 @@
+PCAD Importer Log
+Project : SPU0410LR5H-QB.LibPkg
+
+Section : C:\Users\dmann\Downloads\SPU0410LR5H-QB\SPU0410LR5H-QB.lia
+    Section : PCB Library - SPU0410LR5H-QB.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SPU0410LR5H-QB On Line 707
+            Warning - 1 : Skipping Token attachedSymbol On Line 794
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SPU0410LR5H-QB.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token padStyleDef On Line 57
+            Warning - 1 : Skipping Token multiLayer On Line 131
+            Warning - 1 : Skipping Token layerContents On Line 140
+            Warning - 1 : Skipping Token layerContents On Line 410
+            Warning - 1 : Skipping Token layerContents On Line 417
+            Warning - 1 : Skipping Token layerContents On Line 423
+            Warning - 1 : Skipping Token layerContents On Line 426
+            Warning - 1 : Skipping Token layerContents On Line 687
+            Warning - 1 : Skipping Token layerContents On Line 696
+        EndSection
+
+        Section : Generating SCH Library - SPU0410LR5H-QB.SchLib
+        EndSection
+    EndSection
+EndSection
