@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : W25Q256JVEIQ_TR.LibPkg
+
+Section : C:\Users\dmann\Downloads\W25Q256JVEIQ_TR\W25Q256JVEIQ_TR.lia
+    Section : PCB Library - W25Q256JVEIQ_TR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token W25Q256JVEIQ_TR On Line 148
+            Warning - 1 : Skipping Token attachedSymbol On Line 265
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - W25Q256JVEIQ_TR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 116
+            Warning - 1 : Skipping Token layerContents On Line 124
+            Warning - 1 : Skipping Token layerContents On Line 130
+            Warning - 1 : Skipping Token layerContents On Line 138
+        EndSection
+
+        Section : Generating SCH Library - W25Q256JVEIQ_TR.SchLib
+        EndSection
+    EndSection
+EndSection
