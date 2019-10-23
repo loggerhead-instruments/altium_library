@@ -1,0 +1,33 @@
+PCAD Importer Log
+Project : ICS-43432.LibPkg
+
+Section : C:\w\altium_library\ICS-43432\ICS-43432.lia
+    Section : PCB Library - ICS-43432.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ICS-43432 On Line 720
+            Warning - 1 : Skipping Token attachedSymbol On Line 817
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ICS-43432.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 426
+            Warning - 1 : Skipping Token layerContents On Line 433
+            Warning - 1 : Skipping Token layerContents On Line 441
+            Warning - 1 : Skipping Token layerContents On Line 447
+            Warning - 1 : Skipping Token layerContents On Line 455
+        EndSection
+
+        Section : Generating SCH Library - ICS-43432.SchLib
+        EndSection
+    EndSection
+EndSection
