@@ -10,3 +10,11 @@
 *.Zip
 *.Zip
 *.Zip
+TDT/PCB_LIBS/TDTPCB2.LIB
+TDT/PCB_LIBS/Tdtpcb3.lib
+TDT/PCB_LIBS/Tdtx.lib
+TDT/PCB_LIBS/Vlsi.lib
+TDT/SCH_LIBS/Geosch.lib
+TDT/SCH_LIBS/Jac.lib
+TDT/SCH_LIBS/Tdt.lib
+TDT/SCH_LIBS/Tdt2.lib
